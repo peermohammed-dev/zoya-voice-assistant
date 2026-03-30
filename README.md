@@ -53,3 +53,6 @@ ZOYA is a Python-based AI Voice Assistant that enables hands-free interaction wi
 - Keras / TensorFlow (optional ML)
 
 ---
+## 📸 Screenshot
+
+![Zoya Screenshot](assets/screenshot.png)
